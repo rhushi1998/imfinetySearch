@@ -1,6 +1,6 @@
 # infinetySearch
 
-# Hostte Link:-
+# Hostte Link:- https://rhushi1998.github.io/infinetySearch/
 
 ### here we have created infined scroll image project by first getting an api from unsplash Infinite scrolling is a design approach that loads content continuously as the user scrolls down. It eliminates the need for pagination.
 To implement infinite scrolling in HTML, CSS, and JavaScript, you can use the overflow property to create a scrollable container for your content. You can also use JavaScript to detect when the user reaches the bottom of the container and fetch new data.
