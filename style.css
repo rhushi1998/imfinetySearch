@@ -1,0 +1,26 @@
+body{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    position: relative;
+    font-family: fantasy;
+    font-size: 1.5rem;
+    background-color: aquamarine;
+}
+
+#image-box{
+    text-align: center;
+}
+
+
+
+
+.photo:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+
+ .photo{
+    width: 40%;
+    transition: .5s;
+ }
